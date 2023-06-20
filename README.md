@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently, I'm learning how to develop IOS apps using Swift. I'm also<br>learning new technologies that came with IOS 16, such as live <br>events. <br><br>Utilizing the Canvas API is a big goal of mine. Having never worked with<br>an API, it's proving to be interesting. This API will eventually<br>be incorporated into my future IOS applications. <br><br>Fun Fact: I had zero experience with programming in high school and<br>it was quite the learning curve once I began college.
+Currently, I'm learning how to develop IOS apps using Swift. I'm also<br>learning new technologies that came with IOS 16, such as live <br>activities. <br><br>Utilizing the Canvas API is a big goal of mine. Having never worked with<br>an API, it's proving to be interesting. This API will eventually<br>be incorporated into my future IOS applications. <br><br>Fun Fact: I had zero experience with programming in high school and<br>it was quite the learning curve once I began college.
 
 
 ## 🌐 Socials:
